@@ -9,9 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/home.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/submitstatus.unity
-    guid: 9795812c43755c24fb48ee2cdf7aca4b
-  - enabled: 1
     path: Assets/Scenes/submissionform.unity
     guid: 369c4fc900cca23499160d8713e93dbf
   - enabled: 1
